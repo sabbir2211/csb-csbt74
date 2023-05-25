@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sabbir2211.github.io/csb-csbt74/static/css/main.fc5c2c69.css",
+    "main.js": "https://sabbir2211.github.io/csb-csbt74/static/js/main.9df817c0.js",
+    "index.html": "https://sabbir2211.github.io/csb-csbt74/index.html",
+    "main.fc5c2c69.css.map": "https://sabbir2211.github.io/csb-csbt74/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://sabbir2211.github.io/csb-csbt74/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
